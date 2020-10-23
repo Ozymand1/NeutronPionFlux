@@ -1,0 +1,19 @@
+/score/create/boxMesh boxMesh_1
+/score/mesh/boxSize 20. 0.5 50. cm
+/score/mesh/nBin 40 1 100
+/score/mesh/translate/xyz 0 0 40 cm
+/score/quantity/cellFlux npart
+/score/filter/neutral neutron
+/score/quantity/cellFlux pipart
+/score/filter/charged pi-
+/score/close
+
+/score/list
+
+/gun/particle ion
+/gun/ion 79 198 79
+/run/beamOn 1000
+
+/score/dumpQuantityToFile boxMesh_1 npart spectrumNeutron/npart.txt
+/score/dumpQuantityToFile boxMesh_1 pipart spectrumPion/pipart.txt
+

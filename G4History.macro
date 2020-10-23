@@ -1,0 +1,16 @@
+/vis/geometry/set/colour all -1 0 0 0
+/vis/scene/notifyHandlers
+/vis/drawVolume worlds
+/vis/scene/create
+/vis/scene/add/volume worlds -1 -1 none m 0 0 0 0 0 0
+/vis/sceneHandler/attach
+/vis/geometry/set/colour cylinder 0 0.5 0.5 0.5
+/vis/scene/notifyHandlers
+/vis/geometry/set/forceSolid cylinder
+/vis/scene/notifyHandlers
+/vis/geometry/set/colour cylinder_with_hole 0 0.5 0.5 0.5
+/vis/scene/notifyHandlers
+/vis/geometry/set/forceSolid cylinder_with_hole
+/vis/scene/notifyHandlers
+/gun/particle ion
+/gun/ion 79 198 79

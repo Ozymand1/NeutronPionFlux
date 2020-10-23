@@ -1,0 +1,35 @@
+/score/create/boxMesh boxMesh_1
+/score/mesh/boxSize 20. 0.5 50. cm
+/score/mesh/nBin 40 1 100
+/score/mesh/translate/xyz 0 0 40 cm
+/score/quantity/cellFlux npart
+/score/filter/neutral neutron
+/score/quantity/cellFlux pipart
+/score/filter/charged pi-
+/score/quantity/cellFlux pippart
+/score/filter/neutral pi+
+/control/execute specFilterNeutron.mac
+/control/execute specFilterPion.mac
+/control/execute specFilterPionP.mac
+/score/close
+
+/score/create/cylinderMesh cylMesh_1
+/score/mesh/cylinderSize 5 50 cm
+/score/mesh/nBin 100 1 1
+/score/mesh/translate/xyz 0 0 40 cm
+/score/quantity/energyDeposit eDep
+/score/close
+
+/score/list
+
+/gun/particle ion
+/gun/ion 79 198 79
+/run/beamOn 3000
+
+/control/execute dumpingNeutron.mac
+/control/execute dumpingPion.mac
+/control/execute dumpingPionP.mac
+/score/dumpQuantityToFile boxMesh_1 npart spectrumNeutron/npart.txt
+/score/dumpQuantityToFile boxMesh_1 pipart spectrumPion/pipart.txt
+/score/dumpQuantityToFile boxMesh_1 pippart spectrumPionP/pippart.txt
+/score/dumpQuantityToFile cylMesh_1 eDep eDep.txt

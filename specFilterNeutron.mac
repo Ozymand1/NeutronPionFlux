@@ -1,0 +1,320 @@
+/score/quantity/cellFlux neutronFlux0
+/score/filter/particleWithKineticEnergy nf0 0 25 MeV neutron
+/score/quantity/cellFlux neutronFlux1
+/score/filter/particleWithKineticEnergy nf1 25 50 MeV neutron
+/score/quantity/cellFlux neutronFlux2
+/score/filter/particleWithKineticEnergy nf2 50 75 MeV neutron
+/score/quantity/cellFlux neutronFlux3
+/score/filter/particleWithKineticEnergy nf3 75 100 MeV neutron
+/score/quantity/cellFlux neutronFlux4
+/score/filter/particleWithKineticEnergy nf4 100 125 MeV neutron
+/score/quantity/cellFlux neutronFlux5
+/score/filter/particleWithKineticEnergy nf5 125 150 MeV neutron
+/score/quantity/cellFlux neutronFlux6
+/score/filter/particleWithKineticEnergy nf6 150 175 MeV neutron
+/score/quantity/cellFlux neutronFlux7
+/score/filter/particleWithKineticEnergy nf7 175 200 MeV neutron
+/score/quantity/cellFlux neutronFlux8
+/score/filter/particleWithKineticEnergy nf8 200 225 MeV neutron
+/score/quantity/cellFlux neutronFlux9
+/score/filter/particleWithKineticEnergy nf9 225 250 MeV neutron
+/score/quantity/cellFlux neutronFlux10
+/score/filter/particleWithKineticEnergy nf10 250 275 MeV neutron
+/score/quantity/cellFlux neutronFlux11
+/score/filter/particleWithKineticEnergy nf11 275 300 MeV neutron
+/score/quantity/cellFlux neutronFlux12
+/score/filter/particleWithKineticEnergy nf12 300 325 MeV neutron
+/score/quantity/cellFlux neutronFlux13
+/score/filter/particleWithKineticEnergy nf13 325 350 MeV neutron
+/score/quantity/cellFlux neutronFlux14
+/score/filter/particleWithKineticEnergy nf14 350 375 MeV neutron
+/score/quantity/cellFlux neutronFlux15
+/score/filter/particleWithKineticEnergy nf15 375 400 MeV neutron
+/score/quantity/cellFlux neutronFlux16
+/score/filter/particleWithKineticEnergy nf16 400 425 MeV neutron
+/score/quantity/cellFlux neutronFlux17
+/score/filter/particleWithKineticEnergy nf17 425 450 MeV neutron
+/score/quantity/cellFlux neutronFlux18
+/score/filter/particleWithKineticEnergy nf18 450 475 MeV neutron
+/score/quantity/cellFlux neutronFlux19
+/score/filter/particleWithKineticEnergy nf19 475 500 MeV neutron
+/score/quantity/cellFlux neutronFlux20
+/score/filter/particleWithKineticEnergy nf20 500 525 MeV neutron
+/score/quantity/cellFlux neutronFlux21
+/score/filter/particleWithKineticEnergy nf21 525 550 MeV neutron
+/score/quantity/cellFlux neutronFlux22
+/score/filter/particleWithKineticEnergy nf22 550 575 MeV neutron
+/score/quantity/cellFlux neutronFlux23
+/score/filter/particleWithKineticEnergy nf23 575 600 MeV neutron
+/score/quantity/cellFlux neutronFlux24
+/score/filter/particleWithKineticEnergy nf24 600 625 MeV neutron
+/score/quantity/cellFlux neutronFlux25
+/score/filter/particleWithKineticEnergy nf25 625 650 MeV neutron
+/score/quantity/cellFlux neutronFlux26
+/score/filter/particleWithKineticEnergy nf26 650 675 MeV neutron
+/score/quantity/cellFlux neutronFlux27
+/score/filter/particleWithKineticEnergy nf27 675 700 MeV neutron
+/score/quantity/cellFlux neutronFlux28
+/score/filter/particleWithKineticEnergy nf28 700 725 MeV neutron
+/score/quantity/cellFlux neutronFlux29
+/score/filter/particleWithKineticEnergy nf29 725 750 MeV neutron
+/score/quantity/cellFlux neutronFlux30
+/score/filter/particleWithKineticEnergy nf30 750 775 MeV neutron
+/score/quantity/cellFlux neutronFlux31
+/score/filter/particleWithKineticEnergy nf31 775 800 MeV neutron
+/score/quantity/cellFlux neutronFlux32
+/score/filter/particleWithKineticEnergy nf32 800 825 MeV neutron
+/score/quantity/cellFlux neutronFlux33
+/score/filter/particleWithKineticEnergy nf33 825 850 MeV neutron
+/score/quantity/cellFlux neutronFlux34
+/score/filter/particleWithKineticEnergy nf34 850 875 MeV neutron
+/score/quantity/cellFlux neutronFlux35
+/score/filter/particleWithKineticEnergy nf35 875 900 MeV neutron
+/score/quantity/cellFlux neutronFlux36
+/score/filter/particleWithKineticEnergy nf36 900 925 MeV neutron
+/score/quantity/cellFlux neutronFlux37
+/score/filter/particleWithKineticEnergy nf37 925 950 MeV neutron
+/score/quantity/cellFlux neutronFlux38
+/score/filter/particleWithKineticEnergy nf38 950 975 MeV neutron
+/score/quantity/cellFlux neutronFlux39
+/score/filter/particleWithKineticEnergy nf39 975 1000 MeV neutron
+/score/quantity/cellFlux neutronFlux40
+/score/filter/particleWithKineticEnergy nf40 1000 1025 MeV neutron
+/score/quantity/cellFlux neutronFlux41
+/score/filter/particleWithKineticEnergy nf41 1025 1050 MeV neutron
+/score/quantity/cellFlux neutronFlux42
+/score/filter/particleWithKineticEnergy nf42 1050 1075 MeV neutron
+/score/quantity/cellFlux neutronFlux43
+/score/filter/particleWithKineticEnergy nf43 1075 1100 MeV neutron
+/score/quantity/cellFlux neutronFlux44
+/score/filter/particleWithKineticEnergy nf44 1100 1125 MeV neutron
+/score/quantity/cellFlux neutronFlux45
+/score/filter/particleWithKineticEnergy nf45 1125 1150 MeV neutron
+/score/quantity/cellFlux neutronFlux46
+/score/filter/particleWithKineticEnergy nf46 1150 1175 MeV neutron
+/score/quantity/cellFlux neutronFlux47
+/score/filter/particleWithKineticEnergy nf47 1175 1200 MeV neutron
+/score/quantity/cellFlux neutronFlux48
+/score/filter/particleWithKineticEnergy nf48 1200 1225 MeV neutron
+/score/quantity/cellFlux neutronFlux49
+/score/filter/particleWithKineticEnergy nf49 1225 1250 MeV neutron
+/score/quantity/cellFlux neutronFlux50
+/score/filter/particleWithKineticEnergy nf50 1250 1275 MeV neutron
+/score/quantity/cellFlux neutronFlux51
+/score/filter/particleWithKineticEnergy nf51 1275 1300 MeV neutron
+/score/quantity/cellFlux neutronFlux52
+/score/filter/particleWithKineticEnergy nf52 1300 1325 MeV neutron
+/score/quantity/cellFlux neutronFlux53
+/score/filter/particleWithKineticEnergy nf53 1325 1350 MeV neutron
+/score/quantity/cellFlux neutronFlux54
+/score/filter/particleWithKineticEnergy nf54 1350 1375 MeV neutron
+/score/quantity/cellFlux neutronFlux55
+/score/filter/particleWithKineticEnergy nf55 1375 1400 MeV neutron
+/score/quantity/cellFlux neutronFlux56
+/score/filter/particleWithKineticEnergy nf56 1400 1425 MeV neutron
+/score/quantity/cellFlux neutronFlux57
+/score/filter/particleWithKineticEnergy nf57 1425 1450 MeV neutron
+/score/quantity/cellFlux neutronFlux58
+/score/filter/particleWithKineticEnergy nf58 1450 1475 MeV neutron
+/score/quantity/cellFlux neutronFlux59
+/score/filter/particleWithKineticEnergy nf59 1475 1500 MeV neutron
+/score/quantity/cellFlux neutronFlux60
+/score/filter/particleWithKineticEnergy nf60 1500 1525 MeV neutron
+/score/quantity/cellFlux neutronFlux61
+/score/filter/particleWithKineticEnergy nf61 1525 1550 MeV neutron
+/score/quantity/cellFlux neutronFlux62
+/score/filter/particleWithKineticEnergy nf62 1550 1575 MeV neutron
+/score/quantity/cellFlux neutronFlux63
+/score/filter/particleWithKineticEnergy nf63 1575 1600 MeV neutron
+/score/quantity/cellFlux neutronFlux64
+/score/filter/particleWithKineticEnergy nf64 1600 1625 MeV neutron
+/score/quantity/cellFlux neutronFlux65
+/score/filter/particleWithKineticEnergy nf65 1625 1650 MeV neutron
+/score/quantity/cellFlux neutronFlux66
+/score/filter/particleWithKineticEnergy nf66 1650 1675 MeV neutron
+/score/quantity/cellFlux neutronFlux67
+/score/filter/particleWithKineticEnergy nf67 1675 1700 MeV neutron
+/score/quantity/cellFlux neutronFlux68
+/score/filter/particleWithKineticEnergy nf68 1700 1725 MeV neutron
+/score/quantity/cellFlux neutronFlux69
+/score/filter/particleWithKineticEnergy nf69 1725 1750 MeV neutron
+/score/quantity/cellFlux neutronFlux70
+/score/filter/particleWithKineticEnergy nf70 1750 1775 MeV neutron
+/score/quantity/cellFlux neutronFlux71
+/score/filter/particleWithKineticEnergy nf71 1775 1800 MeV neutron
+/score/quantity/cellFlux neutronFlux72
+/score/filter/particleWithKineticEnergy nf72 1800 1825 MeV neutron
+/score/quantity/cellFlux neutronFlux73
+/score/filter/particleWithKineticEnergy nf73 1825 1850 MeV neutron
+/score/quantity/cellFlux neutronFlux74
+/score/filter/particleWithKineticEnergy nf74 1850 1875 MeV neutron
+/score/quantity/cellFlux neutronFlux75
+/score/filter/particleWithKineticEnergy nf75 1875 1900 MeV neutron
+/score/quantity/cellFlux neutronFlux76
+/score/filter/particleWithKineticEnergy nf76 1900 1925 MeV neutron
+/score/quantity/cellFlux neutronFlux77
+/score/filter/particleWithKineticEnergy nf77 1925 1950 MeV neutron
+/score/quantity/cellFlux neutronFlux78
+/score/filter/particleWithKineticEnergy nf78 1950 1975 MeV neutron
+/score/quantity/cellFlux neutronFlux79
+/score/filter/particleWithKineticEnergy nf79 1975 2000 MeV neutron
+/score/quantity/cellFlux neutronFlux80
+/score/filter/particleWithKineticEnergy nf80 2000 2025 MeV neutron
+/score/quantity/cellFlux neutronFlux81
+/score/filter/particleWithKineticEnergy nf81 2025 2050 MeV neutron
+/score/quantity/cellFlux neutronFlux82
+/score/filter/particleWithKineticEnergy nf82 2050 2075 MeV neutron
+/score/quantity/cellFlux neutronFlux83
+/score/filter/particleWithKineticEnergy nf83 2075 2100 MeV neutron
+/score/quantity/cellFlux neutronFlux84
+/score/filter/particleWithKineticEnergy nf84 2100 2125 MeV neutron
+/score/quantity/cellFlux neutronFlux85
+/score/filter/particleWithKineticEnergy nf85 2125 2150 MeV neutron
+/score/quantity/cellFlux neutronFlux86
+/score/filter/particleWithKineticEnergy nf86 2150 2175 MeV neutron
+/score/quantity/cellFlux neutronFlux87
+/score/filter/particleWithKineticEnergy nf87 2175 2200 MeV neutron
+/score/quantity/cellFlux neutronFlux88
+/score/filter/particleWithKineticEnergy nf88 2200 2225 MeV neutron
+/score/quantity/cellFlux neutronFlux89
+/score/filter/particleWithKineticEnergy nf89 2225 2250 MeV neutron
+/score/quantity/cellFlux neutronFlux90
+/score/filter/particleWithKineticEnergy nf90 2250 2275 MeV neutron
+/score/quantity/cellFlux neutronFlux91
+/score/filter/particleWithKineticEnergy nf91 2275 2300 MeV neutron
+/score/quantity/cellFlux neutronFlux92
+/score/filter/particleWithKineticEnergy nf92 2300 2325 MeV neutron
+/score/quantity/cellFlux neutronFlux93
+/score/filter/particleWithKineticEnergy nf93 2325 2350 MeV neutron
+/score/quantity/cellFlux neutronFlux94
+/score/filter/particleWithKineticEnergy nf94 2350 2375 MeV neutron
+/score/quantity/cellFlux neutronFlux95
+/score/filter/particleWithKineticEnergy nf95 2375 2400 MeV neutron
+/score/quantity/cellFlux neutronFlux96
+/score/filter/particleWithKineticEnergy nf96 2400 2425 MeV neutron
+/score/quantity/cellFlux neutronFlux97
+/score/filter/particleWithKineticEnergy nf97 2425 2450 MeV neutron
+/score/quantity/cellFlux neutronFlux98
+/score/filter/particleWithKineticEnergy nf98 2450 2475 MeV neutron
+/score/quantity/cellFlux neutronFlux99
+/score/filter/particleWithKineticEnergy nf99 2475 2500 MeV neutron
+/score/quantity/cellFlux neutronFlux100
+/score/filter/particleWithKineticEnergy nf100 2500 2525 MeV neutron
+/score/quantity/cellFlux neutronFlux101
+/score/filter/particleWithKineticEnergy nf101 2525 2550 MeV neutron
+/score/quantity/cellFlux neutronFlux102
+/score/filter/particleWithKineticEnergy nf102 2550 2575 MeV neutron
+/score/quantity/cellFlux neutronFlux103
+/score/filter/particleWithKineticEnergy nf103 2575 2600 MeV neutron
+/score/quantity/cellFlux neutronFlux104
+/score/filter/particleWithKineticEnergy nf104 2600 2625 MeV neutron
+/score/quantity/cellFlux neutronFlux105
+/score/filter/particleWithKineticEnergy nf105 2625 2650 MeV neutron
+/score/quantity/cellFlux neutronFlux106
+/score/filter/particleWithKineticEnergy nf106 2650 2675 MeV neutron
+/score/quantity/cellFlux neutronFlux107
+/score/filter/particleWithKineticEnergy nf107 2675 2700 MeV neutron
+/score/quantity/cellFlux neutronFlux108
+/score/filter/particleWithKineticEnergy nf108 2700 2725 MeV neutron
+/score/quantity/cellFlux neutronFlux109
+/score/filter/particleWithKineticEnergy nf109 2725 2750 MeV neutron
+/score/quantity/cellFlux neutronFlux110
+/score/filter/particleWithKineticEnergy nf110 2750 2775 MeV neutron
+/score/quantity/cellFlux neutronFlux111
+/score/filter/particleWithKineticEnergy nf111 2775 2800 MeV neutron
+/score/quantity/cellFlux neutronFlux112
+/score/filter/particleWithKineticEnergy nf112 2800 2825 MeV neutron
+/score/quantity/cellFlux neutronFlux113
+/score/filter/particleWithKineticEnergy nf113 2825 2850 MeV neutron
+/score/quantity/cellFlux neutronFlux114
+/score/filter/particleWithKineticEnergy nf114 2850 2875 MeV neutron
+/score/quantity/cellFlux neutronFlux115
+/score/filter/particleWithKineticEnergy nf115 2875 2900 MeV neutron
+/score/quantity/cellFlux neutronFlux116
+/score/filter/particleWithKineticEnergy nf116 2900 2925 MeV neutron
+/score/quantity/cellFlux neutronFlux117
+/score/filter/particleWithKineticEnergy nf117 2925 2950 MeV neutron
+/score/quantity/cellFlux neutronFlux118
+/score/filter/particleWithKineticEnergy nf118 2950 2975 MeV neutron
+/score/quantity/cellFlux neutronFlux119
+/score/filter/particleWithKineticEnergy nf119 2975 3000 MeV neutron
+/score/quantity/cellFlux neutronFlux120
+/score/filter/particleWithKineticEnergy nf120 3000 3025 MeV neutron
+/score/quantity/cellFlux neutronFlux121
+/score/filter/particleWithKineticEnergy nf121 3025 3050 MeV neutron
+/score/quantity/cellFlux neutronFlux122
+/score/filter/particleWithKineticEnergy nf122 3050 3075 MeV neutron
+/score/quantity/cellFlux neutronFlux123
+/score/filter/particleWithKineticEnergy nf123 3075 3100 MeV neutron
+/score/quantity/cellFlux neutronFlux124
+/score/filter/particleWithKineticEnergy nf124 3100 3125 MeV neutron
+/score/quantity/cellFlux neutronFlux125
+/score/filter/particleWithKineticEnergy nf125 3125 3150 MeV neutron
+/score/quantity/cellFlux neutronFlux126
+/score/filter/particleWithKineticEnergy nf126 3150 3175 MeV neutron
+/score/quantity/cellFlux neutronFlux127
+/score/filter/particleWithKineticEnergy nf127 3175 3200 MeV neutron
+/score/quantity/cellFlux neutronFlux128
+/score/filter/particleWithKineticEnergy nf128 3200 3225 MeV neutron
+/score/quantity/cellFlux neutronFlux129
+/score/filter/particleWithKineticEnergy nf129 3225 3250 MeV neutron
+/score/quantity/cellFlux neutronFlux130
+/score/filter/particleWithKineticEnergy nf130 3250 3275 MeV neutron
+/score/quantity/cellFlux neutronFlux131
+/score/filter/particleWithKineticEnergy nf131 3275 3300 MeV neutron
+/score/quantity/cellFlux neutronFlux132
+/score/filter/particleWithKineticEnergy nf132 3300 3325 MeV neutron
+/score/quantity/cellFlux neutronFlux133
+/score/filter/particleWithKineticEnergy nf133 3325 3350 MeV neutron
+/score/quantity/cellFlux neutronFlux134
+/score/filter/particleWithKineticEnergy nf134 3350 3375 MeV neutron
+/score/quantity/cellFlux neutronFlux135
+/score/filter/particleWithKineticEnergy nf135 3375 3400 MeV neutron
+/score/quantity/cellFlux neutronFlux136
+/score/filter/particleWithKineticEnergy nf136 3400 3425 MeV neutron
+/score/quantity/cellFlux neutronFlux137
+/score/filter/particleWithKineticEnergy nf137 3425 3450 MeV neutron
+/score/quantity/cellFlux neutronFlux138
+/score/filter/particleWithKineticEnergy nf138 3450 3475 MeV neutron
+/score/quantity/cellFlux neutronFlux139
+/score/filter/particleWithKineticEnergy nf139 3475 3500 MeV neutron
+/score/quantity/cellFlux neutronFlux140
+/score/filter/particleWithKineticEnergy nf140 3500 3525 MeV neutron
+/score/quantity/cellFlux neutronFlux141
+/score/filter/particleWithKineticEnergy nf141 3525 3550 MeV neutron
+/score/quantity/cellFlux neutronFlux142
+/score/filter/particleWithKineticEnergy nf142 3550 3575 MeV neutron
+/score/quantity/cellFlux neutronFlux143
+/score/filter/particleWithKineticEnergy nf143 3575 3600 MeV neutron
+/score/quantity/cellFlux neutronFlux144
+/score/filter/particleWithKineticEnergy nf144 3600 3625 MeV neutron
+/score/quantity/cellFlux neutronFlux145
+/score/filter/particleWithKineticEnergy nf145 3625 3650 MeV neutron
+/score/quantity/cellFlux neutronFlux146
+/score/filter/particleWithKineticEnergy nf146 3650 3675 MeV neutron
+/score/quantity/cellFlux neutronFlux147
+/score/filter/particleWithKineticEnergy nf147 3675 3700 MeV neutron
+/score/quantity/cellFlux neutronFlux148
+/score/filter/particleWithKineticEnergy nf148 3700 3725 MeV neutron
+/score/quantity/cellFlux neutronFlux149
+/score/filter/particleWithKineticEnergy nf149 3725 3750 MeV neutron
+/score/quantity/cellFlux neutronFlux150
+/score/filter/particleWithKineticEnergy nf150 3750 3775 MeV neutron
+/score/quantity/cellFlux neutronFlux151
+/score/filter/particleWithKineticEnergy nf151 3775 3800 MeV neutron
+/score/quantity/cellFlux neutronFlux152
+/score/filter/particleWithKineticEnergy nf152 3800 3825 MeV neutron
+/score/quantity/cellFlux neutronFlux153
+/score/filter/particleWithKineticEnergy nf153 3825 3850 MeV neutron
+/score/quantity/cellFlux neutronFlux154
+/score/filter/particleWithKineticEnergy nf154 3850 3875 MeV neutron
+/score/quantity/cellFlux neutronFlux155
+/score/filter/particleWithKineticEnergy nf155 3875 3900 MeV neutron
+/score/quantity/cellFlux neutronFlux156
+/score/filter/particleWithKineticEnergy nf156 3900 3925 MeV neutron
+/score/quantity/cellFlux neutronFlux157
+/score/filter/particleWithKineticEnergy nf157 3925 3950 MeV neutron
+/score/quantity/cellFlux neutronFlux158
+/score/filter/particleWithKineticEnergy nf158 3950 3975 MeV neutron
+/score/quantity/cellFlux neutronFlux159
+/score/filter/particleWithKineticEnergy nf159 3975 4000 MeV neutron
